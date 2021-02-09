@@ -1,0 +1,3 @@
+[submodule "lib/scad-utils"]
+	path = lib/scad-utils
+	url = https://github.com/openscad/scad-utils.git
